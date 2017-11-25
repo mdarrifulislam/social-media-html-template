@@ -1,0 +1,40 @@
+.header{
+    background-color: #424E55;
+}
+.login{
+    padding-top: 25px;
+}
+.login label{
+    color: #c9302c;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+.body{
+    background-color: #F3F3F3;
+}
+.sign_up_heading {
+    text-align:center;
+    font-family: cursive;
+} 
+.body lebel{
+    font-family: sans-serif;
+}
+.bodyImage img{
+    padding-top: 200px;
+    width: 100%;
+    height: auto;
+}
+.footer{
+    background-color: #424E55;
+ }
+ .footer_style h2{
+     color: #F3F3F3;
+     font-family: cursive;
+     font-size: 20px;
+ }
+  .footer_style p{
+     color:#F3F3F3;
+     font-size: 15px;
+     font-family: sans-serif;
+ }
